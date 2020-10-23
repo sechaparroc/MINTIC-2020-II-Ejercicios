@@ -7,4 +7,4 @@ Para el Ejercicio 4 tengan en cuenta que la carpeta contiene todo el proyecto de
 2. Abrir el proyecto en Netbeans
 ![Abrir](https://github.com/sechaparroc/MINTIC-2020-II-Ejercicios/blob/main/Abrir_proyecto.png)
 
-O pueden dirigirse a 4_Clases/profesConClase/src/profesconclase en donde se encuentran el código fuente.
+O pueden dirigirse a [4_Clases/profesConClase/src/profesconclase](https://github.com/sechaparroc/MINTIC-2020-II-Ejercicios/tree/main/4_Intro_Clases/profesConClase/src/profesconclase) en donde se encuentran el código fuente.
